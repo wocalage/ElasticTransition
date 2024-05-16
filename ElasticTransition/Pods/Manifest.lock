@@ -1,0 +1,16 @@
+PODS:
+  - MotionAnimation (0.1.2)
+
+DEPENDENCIES:
+  - MotionAnimation
+
+SPEC REPOS:
+  trunk:
+    - MotionAnimation
+
+SPEC CHECKSUMS:
+  MotionAnimation: ff5c8fc2e429d7e10d46ae86819ba9759846c343
+
+PODFILE CHECKSUM: 4c215cc09aef8e2a9924f8ed4acc03a1b658fc04
+
+COCOAPODS: 1.14.3

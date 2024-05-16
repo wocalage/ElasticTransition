@@ -1,0 +1,8 @@
+platform :ios, '15.0'
+
+target 'ElasticTransitionExample' do
+  use_frameworks!
+  inhibit_all_warnings!
+  pod 'MotionAnimation'
+
+end
